@@ -5,9 +5,6 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=DiogoConcei&theme=dark&hide_border=true" width="400" />
-    </td>
-    <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoConcei&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="400" />
     </td>
   </tr>
