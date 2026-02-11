@@ -1,15 +1,6 @@
 ## 💫 Sobre mim:
 🔭 Atualmente estou trabalhando em: Uma solução para compartilhamento de arquivos.<br>👯 Estou procurando colaborar em: Projetos de ensino teórico e soluções de software.<br>🤝 Estou procurando ajuda com: Desenvolvimento web e arquitetura de software.<br>🌱 Atualmente estou aprendendo: Node.js, TypeScript e Electron.js.
 
-# 📊 GitHub Stats:
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoConcei&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="400" />
-    </td>
-  </tr>
-</table>
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DiogoConcei&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
